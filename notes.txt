@@ -1,0 +1,5 @@
+common unsupervised task:
+1.dimensionality reduction, feature extraction
+2.anomaly detection
+3.association rule learning
+
